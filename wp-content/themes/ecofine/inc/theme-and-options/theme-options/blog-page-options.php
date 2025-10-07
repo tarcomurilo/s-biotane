@@ -1,0 +1,105 @@
+<?php
+//Blog Page Options
+CSF::createSection( $EcofineThemeOption, array(
+    'parent' => 'ecofine_page_options',
+    'title'  => esc_html__( 'Blog Page', 'ecofine' ),
+    'icon'   => 'fa fa-pencil-square-o',
+    'fields' => array(
+        array(
+            'id'      => 'ecofine_blog_layout',
+            'type'    => 'select',
+            'title'   => esc_html__( 'Blog Layout', 'ecofine' ),
+            'options' => array(
+                'grid'          => esc_html__( 'Grid Full', 'ecofine' ),
+                'grid-ls'       => esc_html__( 'Grid With Left Sidebar', 'ecofine' ),
+                'grid-rs'       => esc_html__( 'Grid With Right Sidebar', 'ecofine' ),
+                'left-sidebar'  => esc_html__( 'Left Sidebar', 'ecofine' ),
+                'right-sidebar' => esc_html__( 'Right Sidebar', 'ecofine' ),
+            ),
+            'default' => 'right-sidebar',
+            'desc'    => esc_html__( 'Select blog page layout.', 'ecofine' ),
+        ),
+        array(
+            'id'       => 'ecofine_blog_banner_enable',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Enable Banner', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show Banner.', 'ecofine' ),
+        ),
+        array(
+            'id'         => 'ecofine_blog_title',
+            'type'       => 'text',
+            'title'      => esc_html__( 'Banner Title', 'ecofine' ),
+            'dependency' => array( 'ecofine_blog_banner_enable', '==', 'true' ),
+            'desc'       => esc_html__( 'Type blog banner title here.', 'ecofine' ),
+        ),
+        
+        array(
+            'id'       => 'ecofine_post_author',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Author Name', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show post author name.', 'ecofine' ),
+        ),
+
+        array(
+            'id'       => 'ecofine_post_date',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Post Date', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show post date.', 'ecofine' ),
+        ),
+
+        array(
+            'id'       => 'ecofine_cmnt_number',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Comment Number', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show post comment number.', 'ecofine' ),
+        ),
+
+        array(
+            'id'       => 'ecofine_show_category',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Category Name', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show post category name.', 'ecofine' ),
+        ),
+        array(
+            'id'       => 'ecofine_show_pagination',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Pagination', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show post category name.', 'ecofine' ),
+        ),
+        array(
+            'id'       => 'ecofine_show_readmore',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Readmore Button', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show post category name.', 'ecofine' ),
+        ),
+        array(
+            'id'         => 'ecofine_blog_read_text',
+            'type'       => 'text',
+            'default'    => esc_html__( 'Read More', 'ecofine' ),
+            'title'      => esc_html__( 'Read More Text', 'ecofine' ),
+            'dependency' => array( 'ecofine_show_readmore', '==', 'true' ),
+            'desc'       => esc_html__( 'Add ReadMore Text here.', 'ecofine' ),
+        ),
+    ),
+) );

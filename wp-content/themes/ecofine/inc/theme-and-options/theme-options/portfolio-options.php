@@ -1,0 +1,83 @@
+<?php
+//portfolio Page Options
+CSF::createSection( $EcofineThemeOption, array(
+    'title'  => esc_html__( 'Portfolio Page', 'ecofine' ),
+    'icon'   => 'fa fa-th-large',
+    'fields' => array(
+        array(
+            'id'       => 'ecofine_portfolio_banner_enable',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Enable Banner', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show Banner.', 'ecofine' ),
+        ),
+        array(
+            'id'      => 'ecofine_portfolio_custom_slug',
+            'type'    => 'text',
+            'title'   => esc_html__( 'Custom Slug', 'ecofine' ),
+            'default' => esc_html( 'ecofine-portfolio', 'ecofine' ),
+        ),
+        array(
+            'id'       => 'ecofine_portfolio_tag',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Tags', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show Portfolio Tags', 'ecofine' ),
+        ),
+        array(
+            'id'       => 'ecofine_portfolio_share',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Share Icon', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show Portfolio Share Button', 'ecofine' ),
+        ),
+        array(
+            'id'      => 'ecofine_portfolio_share_text',
+            'type'    => 'text',
+            'title'   => esc_html__( 'Share Text', 'ecofine' ),
+            'default' => esc_html( 'Share :', 'ecofine' ),
+            'dependency' => array( 'ecofine_portfolio_share', '==', 'true' ),
+        ),
+		array(
+		  'type'    => 'submessage',
+		  'style'   => 'success',
+		  'content' => esc_html__( 'Related Portfolio Options', 'ecofine' ),
+		),
+		array(
+            'id'       => 'ecofine_portfolio_related',
+            'type'     => 'switcher',
+            'title'    => esc_html__( 'Show Related Item', 'ecofine' ),
+            'default'  => true,
+            'text_on'  => esc_html__( 'Yes', 'ecofine' ),
+            'text_off' => esc_html__( 'No', 'ecofine' ),
+            'desc'     => esc_html__( 'Hide / Show Related Project.', 'ecofine' ),
+        ),
+        array(
+            'id'         => 'ecofine_portfolio_related_title',
+            'type'       => 'text',
+            'title'      => esc_html__( 'Related Title', 'ecofine' ),
+            'default'    => esc_html( 'Related Project', 'ecofine' ),
+            'dependency' => array( 'ecofine_portfolio_related', '==', 'true' ),
+        ),
+		array(
+			'id'          => 'ecofine_portfolio_related_margin',
+			'type'        => 'spacing',
+			'title'       => esc_html__( 'Margin', 'ecofine' ),
+			'output'      => '.tp-related-portfolio-wrapper',
+			'dependency' => array( 'ecofine_portfolio_related', '==', 'true' ),
+			'desc'     => esc_html__( 'Add Related margin Portfolio', 'ecofine' ),
+			'output_mode' => 'margin',
+			'default'     => array(
+				'top'       => '0',
+				'bottom'    => '170',
+				'unit'      => 'px',
+			),
+		),
+    ),
+) );

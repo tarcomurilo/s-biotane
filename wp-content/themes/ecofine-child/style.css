@@ -1,0 +1,15 @@
+/*
+Theme Name: Ecofine Child
+Author: ThemePul
+Description: This child theme is only for Ecofine Theme.
+Version: 1.0.0
+Template: ecofine
+
+This is the child theme for Ecofine theme
+
+*/
+
+.company-contact-widget ul li {
+	display: flex;
+	align-items: center;
+}

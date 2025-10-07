@@ -1,0 +1,420 @@
+
+---Downloaded files---
+The import files for: Default were successfully downloaded!
+Initial max execution time = 360
+Files info:
+Site URL = https://biotane.com.br/newsite
+Data file = /home/u299060877/domains/biotane.com.br/public_html/newsite/wp-content/uploads/2024/05/demo-content-import-file_2024-05-19__21-13-15.xml
+Widget file = /home/u299060877/domains/biotane.com.br/public_html/newsite/wp-content/uploads/2024/05/demo-widgets-import-file_2024-05-19__21-13-15.json
+Customizer file = /home/u299060877/domains/biotane.com.br/public_html/newsite/wp-content/uploads/2024/05/demo-customizer-import-file_2024-05-19__21-13-15.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_tag Angolan
+[WARNING] Failed to import product_cat Animals
+[WARNING] Failed to import product_tag animasl
+[WARNING] Failed to import product_tag bird
+[WARNING] Failed to import product_tag Broiler
+[WARNING] Failed to import product_tag Coniferous
+[WARNING] Failed to import product_tag Deer
+[WARNING] Failed to import product_cat Deer
+[WARNING] Failed to import product_tag Elephants
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_tag Front
+[WARNING] Failed to import product_tag giraffe
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_tag Kerstin
+[WARNING] Failed to import product_tag Nice bird
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_tag Plant
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_tag Thuja
+[WARNING] Failed to import product_tag tissue
+[WARNING] Failed to import product_tag tree
+[WARNING] Failed to import product_cat tree
+[WARNING] Failed to import product_tag Tree Thuja
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+Custom Framework file loaded.
+
+---Importing widgets---
+Sidebar : 
+
+Bloco - No Title - Imported
+Bloco - No Title - Imported
+Meta - Meta - Imported
+
+ecofine-shop : Sidebar does not exist in theme (moving widget to Inactive)
+
+Bloco - No Title - Imported to Inactive
+woocommerce_products - Products - Site does not support widget
+
+Footer One : 
+
+Ecofine About Widget - No Title - Imported
+
+Footer Two : 
+
+Ecofine : Navigation Menu - Quick Link - Imported
+
+Footer Three : 
+
+Ecofine Post With Thumbnail - Recent News - Imported
+
+Footer Four : 
+
+Ecofine Newletter Widget - Newsletter - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
